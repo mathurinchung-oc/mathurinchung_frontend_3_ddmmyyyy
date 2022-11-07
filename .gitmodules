@@ -1,0 +1,3 @@
+[submodule "ohmyfood"]
+	path = ohmyfood
+	url = https://github.com/mathurinchung/ohmyfood.git
